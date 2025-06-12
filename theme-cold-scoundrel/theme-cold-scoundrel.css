@@ -1,0 +1,55 @@
+body {
+    --text-color: #1c271d !important;
+    --bkg-color: #ededee !important;
+    --color-strong: #c7d5e2 !important;
+    --color-main: #002850 !important;
+    --color-function: #6a9cce !important;
+    --anchor-color: black !important;
+    --bkg-color-modal: #b9c9e3 !important;
+    --text-color-table-head: #ffffff !important;
+    --bkg-color-table-head: #3d496d !important;
+    --bkg-color-table-row-odd: white !important;
+    --bkg-color-table-row-even: #e1e6f7 !important;
+    --bkg-color-table-row-hover: #c1cff3 !important;
+    --bkg-color-table-row-selected: #8ca5e4 !important;
+    --text-color-table-row-selected: black !important;
+    --bkg-color-dt-button: #d0ddf5 !important;
+    --bkg-image-dt-button: linear-gradient(to bottom, white 0%, #bbd4f3 100%) !important;
+    --text-color-dt-button: #010301 !important;
+    --bkg-color-light-green: #75b2f1 !important;
+    --bkg-color-tab-hover: #c7ccd1 !important;
+    --text-color-button-selected:#383007 !important;
+    --bkg-color-button-selected:#79a8cc !important;
+    --text-color-button-hover:#000000 !important;
+    --bkg-color-button-hover:#b1cbe2 !important;
+    color-scheme: light;
+}
+
+body.dark-theme {
+	--text-color: #e5e5e5 !important;
+	--bkg-color: #242424 !important;
+	--color-strong: #0e0e0e !important;
+	--color-main: #364a89 !important;
+	--color-error: #d33a2f !important;
+	--color-warning: #0e0e0e !important;
+	--color-function: #606060 !important;
+	--anchor-color: #e5e5e5 !important;
+	--bkg-color-modal: #242424 !important;
+	--text-color-table-head: #e5e5e5 !important;
+	--bkg-color-table-head: #181717 !important;
+	--bkg-color-table-row-odd: #242424 !important;
+	--bkg-color-table-row-even: #181717 !important;
+	--bkg-color-table-row-hover: #606060 !important;
+	--bkg-color-table-row-selected: #e5e5e5 !important;
+	--text-color-table-row-selected: #181717 !important;
+	--text-color-button-selected: black !important;
+	--bkg-color-button-selected: #9e9e9e !important;
+	--text-color-button-hover: black !important;
+	--bkg-color-button-hover: #cccccc !important;
+	--bkg-color-dt-button: #181717 !important;
+	--bkg-image-dt-button: none !important;
+	--text-color-dt-button: white !important;
+	--bkg-color-light-green: #2d53cb !important;
+	--bkg-color-tab-hover: #606060 !important;
+	color-scheme: dark;
+}
