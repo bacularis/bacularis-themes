@@ -40,3 +40,9 @@ Refresh the web interface page to see the result. We recommend to use for that
 the ``CTRL+SHIFT+R`` keyboard shortcut which refreshes the page with clearing the
 web browser page cache.
 
+## Important notes
+
+If you installed a dark type theme, please **do not forget** to switch the interface
+into the dark mode, otherwise the new theme will not be displayed. This can be
+done by the light/dark mode switch button at the top of the web interface.
+
