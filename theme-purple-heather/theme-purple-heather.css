@@ -1,3 +1,10 @@
+/**
+ * Bacularis 'purple heather' theme.
+ *
+ * @author Beata Haba <masmika@gmail.com>
+ * @version 1.0.0
+ */
+
 body {
 	--text-color: #1c271d !important;
 	--bkg-color: #e3ecf6 !important;
