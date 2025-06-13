@@ -1,28 +1,28 @@
 body {
-    --text-color: #1c271d !important;
-    --bkg-color: #f2ebe2 !important;
-    --color-strong: #e8c595 !important;
-    --color-main: #75432b !important;
-    --color-function: #9d7d66 !important;
-    --anchor-color: black !important;
-    --bkg-color-modal: #e7c69e !important;
-    --text-color-table-head: #f8e7df !important;
-    --bkg-color-table-head: #623e30 !important;
-    --bkg-color-table-row-odd: white !important;
-    --bkg-color-table-row-even: #f5e7d0 !important;
-    --bkg-color-table-row-hover: #eccfad !important;
-    --bkg-color-table-row-selected: #f3b776 !important;
-    --text-color-table-row-selected: black !important;
-    --bkg-color-dt-button: #f2a791 !important;
-    --bkg-image-dt-button: linear-gradient(to bottom, white 0%, #f5d1a2 100%) !important;
-    --text-color-dt-button: #010301 !important;
-    --bkg-color-light-green: #f2970a !important;
-    --bkg-color-tab-hover: #e9cfa6 !important;
-    --text-color-button-selected:#383007 !important;
-    --bkg-color-button-selected:#ea8611 !important;
-    --text-color-button-hover:#000000 !important;
-    --bkg-color-button-hover:#e8c76f !important;
-    color-scheme: light;
+	--text-color: #1c271d !important;
+	--bkg-color: #f2ebe2 !important;
+	--color-strong: #e8c595 !important;
+	--color-main: #75432b !important;
+	--color-function: #9d7d66 !important;
+	--anchor-color: black !important;
+	--bkg-color-modal: #e7c69e !important;
+	--text-color-table-head: #f8e7df !important;
+	--bkg-color-table-head: #623e30 !important;
+	--bkg-color-table-row-odd: white !important;
+	--bkg-color-table-row-even: #f5e7d0 !important;
+	--bkg-color-table-row-hover: #eccfad !important;
+	--bkg-color-table-row-selected: #f3b776 !important;
+	--text-color-table-row-selected: black !important;
+	--bkg-color-dt-button: #f2a791 !important;
+	--bkg-image-dt-button: linear-gradient(to bottom, white 0%, #f5d1a2 100%) !important;
+	--text-color-dt-button: #010301 !important;
+	--bkg-color-light-green: #f2970a !important;
+	--bkg-color-tab-hover: #e9cfa6 !important;
+	--text-color-button-selected:#383007 !important;
+	--bkg-color-button-selected:#ea8611 !important;
+	--text-color-button-hover:#000000 !important;
+	--bkg-color-button-hover:#e8c76f !important;
+	color-scheme: light;
 }
 
 body.dark-theme {
