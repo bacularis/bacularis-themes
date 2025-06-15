@@ -1,0 +1,68 @@
+/**
+ * Bacularis 'nosferatu blood' theme.
+ *
+ * @author Beata Haba <masmika@gmail.com>
+ * @version 1.0.0
+ */
+
+body {
+	--text-color: black !important;
+	--bkg-color: #f1f1f1 !important;
+	--color-strong: white !important;
+	--color-main: #4caf50 !important;
+	--anchor-color: black !important;
+	--color-error: #f44336 !important;
+	--color-warning: #ffffcc !important;
+	--bkg-color-menu: white !important;
+	--bkg-color-modal: white !important;
+	--text-color-table-head: white !important;
+	--bkg-color-table-head: #4c4b4b !important;
+	--bkg-color-table-row-odd: white !important;
+	--bkg-color-table-row-even: #f1f1f1 !important;
+	--bkg-color-table-row-hover: #ffcf9e !important;
+	--bkg-color-table-row-selected: #f5a55b !important;
+	--text-color-table-row-selected: black !important;
+	--bkg-color-dt-button: #e9e9e9 !important;
+	--bkg-image-dt-button: linear-gradient(to bottom, white 0%, #e9e9e9 100%) !important;
+	--text-color-dt-button: black !important;
+	--bkg-color-light-green: #8bc34a !important;
+	--bkg-color-tab-hover: #e7e7e7 !important;
+	--text-color-button-main: white !important;
+	--bkg-color-button-main: #4caf50 !important;
+	--text-color-button-selected: black !important;
+	--bkg-color-button-selected: #9e9e9e !important;
+	--text-color-button-hover: black !important;
+	--bkg-color-button-hover: #cccccc !important;
+	color-scheme: light;
+}
+
+body.dark-theme {
+	--text-color: #ff0000 !important;
+	--bkg-color: #360000 !important;
+	--color-strong: #050101 !important;
+	--color-main: #e70f0f !important;
+	--anchor-color: #f6f6f9 !important;
+	--color-error: #d33a2f !important;
+	--color-warning: #0e0e0e !important;
+	--bkg-color-menu: #1d0000 !important;
+	--bkg-color-modal: #1d0000 !important;
+	--text-color-table-head: #ffffff !important;
+	--bkg-color-table-head: #af1919 !important;
+	--bkg-color-table-row-odd: #422e2e !important;
+	--bkg-color-table-row-even: #654141 !important;
+	--bkg-color-table-row-hover: #915353!important;
+	--bkg-color-table-row-selected: #b94b4b !important;
+	--text-color-table-row-selected: rgb(249,246,246) !important;
+	--bkg-color-dt-button: #000000 !important;
+	--bkg-image-dt-button: linear-gradient(to bottom, #640202 0%, #1d0000 100%) !important;
+	--text-color-dt-button: #f6f6f9 !important;
+	--bkg-color-light-green: #972525 !important;
+	--bkg-color-tab-hover: #b94b4b !important;
+	--text-color-button-main: white !important;
+	--bkg-color-button-main: #e70f0f !important;
+	--text-color-button-selected:#f7f7f7 !important;
+	--bkg-color-button-selected:#91152a !important;
+	--text-color-button-hover:#ffffff !important;
+	--bkg-color-button-hover:#b5253f !important;
+	color-scheme: dark;
+}
