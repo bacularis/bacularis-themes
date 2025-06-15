@@ -8,4 +8,5 @@ Changes:
  * Add joyful rainbow
  * Add marengo secret
  * Add ecological lettuce
+ * Add nosferatu blood theme
 
