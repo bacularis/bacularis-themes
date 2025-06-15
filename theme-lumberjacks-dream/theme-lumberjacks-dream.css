@@ -10,8 +10,10 @@ body {
 	--bkg-color: #f2ebe2 !important;
 	--color-strong: #e8c595 !important;
 	--color-main: #75432b !important;
-	--color-function: #9d7d66 !important;
 	--anchor-color: black !important;
+	--color-error: #f44336 !important;
+	--color-warning: #ffffcc !important;
+	--bkg-color-menu: #e7c69e !important;
 	--bkg-color-modal: #e7c69e !important;
 	--text-color-table-head: #f8e7df !important;
 	--bkg-color-table-head: #623e30 !important;
@@ -25,6 +27,8 @@ body {
 	--text-color-dt-button: #010301 !important;
 	--bkg-color-light-green: #f2970a !important;
 	--bkg-color-tab-hover: #e9cfa6 !important;
+	--text-color-button-main: white !important;
+	--bkg-color-button-main: #75432b !important;
 	--text-color-button-selected:#383007 !important;
 	--bkg-color-button-selected:#ea8611 !important;
 	--text-color-button-hover:#000000 !important;
@@ -37,10 +41,10 @@ body.dark-theme {
 	--bkg-color: #242424 !important;
 	--color-strong: #0e0e0e !important;
 	--color-main: #364a89 !important;
+	--anchor-color: #e5e5e5 !important;
 	--color-error: #d33a2f !important;
 	--color-warning: #0e0e0e !important;
-	--color-function: #606060 !important;
-	--anchor-color: #e5e5e5 !important;
+	--bkg-color-menu: #0e0e0e !important;
 	--bkg-color-modal: #242424 !important;
 	--text-color-table-head: #e5e5e5 !important;
 	--bkg-color-table-head: #181717 !important;
@@ -49,14 +53,16 @@ body.dark-theme {
 	--bkg-color-table-row-hover: #606060 !important;
 	--bkg-color-table-row-selected: #e5e5e5 !important;
 	--text-color-table-row-selected: #181717 !important;
-	--text-color-button-selected: black !important;
-	--bkg-color-button-selected: #9e9e9e !important;
-	--text-color-button-hover: black !important;
-	--bkg-color-button-hover: #cccccc !important;
 	--bkg-color-dt-button: #181717 !important;
 	--bkg-image-dt-button: none !important;
 	--text-color-dt-button: white !important;
 	--bkg-color-light-green: #2d53cb !important;
 	--bkg-color-tab-hover: #606060 !important;
+	--text-color-button-main: white !important;
+	--bkg-color-button-main: #364a89 !important;
+	--text-color-button-selected: black !important;
+	--bkg-color-button-selected: #9e9e9e !important;
+	--text-color-button-hover: black !important;
+	--bkg-color-button-hover: #cccccc !important;
 	color-scheme: dark;
 }
